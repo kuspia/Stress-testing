@@ -1,4 +1,4 @@
-# Powerful tool for stress testing of test cases in competetive programming and software development 
+# Powerful tool for stress testing of test cases in competitive programming and software development 
 
 This tool has been developed to do the stress testing of test cases and compare the differences of outputs produced by two ```.cpp``` files on the website
 https://text-compare.com/, using just one command.
