@@ -15,3 +15,14 @@ _Imagine if you don't have this tool then manually you need to run two ```.cpp``
 
 
 ## How to use it ?
+
+It's very simple to use however little bit complicated to structure the files but if you follow line by line you won't miss it.
+
+Somewhere put the testing folder with it all files inside it and copy the path of testing folder and make two changes as shown 
+```h1.h``` (can be found inside testing folder) for ```#define _2 and #define _1``` set path to your path. 
+```chk.py``` (can be found inside root directory) here open it and make the change at ```line 4``` by replacing the path 
+
+Now move ```chk.py``` to the default location of your cmd path, you can open cmd terminal and see it as shown below
+![image](https://user-images.githubusercontent.com/63403330/161601893-6db3cc77-3c77-448e-8fad-4addfa92a74c.png) 
+
+
