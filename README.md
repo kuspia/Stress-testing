@@ -28,7 +28,7 @@ Now move ```chk.py``` to the default location from where you can type ```python`
 
 In my case I have moved ```chk.py``` to  ```C:\Users\1kusp```
 
-You are done !! now the structuring of file has been set and tool is ready to be used.
+**You are done !! now the structuring of file has been set and tool is ready to be used.**
 
 I will demonstrate it for a codechef problem:
 
