@@ -1,3 +1,17 @@
+#ifdef update_me
+  
+Please note this header file must be updated/replicated as it is with https://github.com/kuspia/template_cplusplus/blob/main/h1.h before you start using this tool
+
+However this header file have two differnce for following #defines when compared with above header file
+
+#define _2 }int main(){iofast string path = "C:\\Users\\1kusp\\OneDrive\\Documents\\CP\\testing\\"; if ( __FILE__ == path + "optimal_test.cpp") {freopen( (path + "in.txt").c_str () , "r", stdin);freopen( (path + "optimal_test_out.txt").c_str () , "w", stdout);} else if (__FILE__ == path + "brute_test.cpp" ){freopen( (path + "in.txt").c_str () , "r", stdin);freopen( (path + "brute_test_out.txt").c_str () , "w", stdout);} else{freopen( (path + "in.txt").c_str () , "w", stdout);} lll{solve();}}
+#define _1 }int main(){iofast string path = "C:\\Users\\1kusp\\OneDrive\\Documents\\CP\\testing\\"; if ( __FILE__ == path + "optimal_test.cpp") {freopen( (path + "in.txt").c_str () , "r", stdin);freopen( (path + "optimal_test_out.txt").c_str () , "w", stdout);} else if (__FILE__ == path + "brute_test.cpp" ){freopen( (path + "in.txt").c_str () , "r", stdin);freopen( (path + "brute_test_out.txt").c_str () , "w", stdout);} else{freopen( (path + "in.txt").c_str () , "w", stdout);} solve();}
+
+These two #define must remain same and rest everything should be updated with above h1.h header file 
+
+#endif
+
+
 #ifdef intro_run
                                          cODED by-
  __                         __
