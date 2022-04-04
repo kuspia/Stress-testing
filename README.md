@@ -7,7 +7,7 @@ https://text-compare.com/, using just one command.
 ## Where we can use it ?
 
 1. Suppose you have written a code using brute force approach which is correct and you have also written a optimal solution which may or may not be 100% correct so what we want is to compare it with different random test cases and quickly observe the differences if any. Hence this tool aids you easily and help you to do faster debugging.
-2. If you are into competitive programming of course we need to debug our solution while we are up solving the problems that we failed to solve during contest, hence one copy some correct code of some user from the contest website let's say it is optimal and our incorrect code that was giving us WA as brute. Now again we have two ```.cpp``` codes whose output we want to compare which can be done via this tool.
+2. If you are into competitive programming of course we need to debug our solution while we are up solving the problems that we failed to solve during contest, hence one can copy some correct code of some user from the contest website let's say it is a optimal code and our incorrect code that was giving us WA as brute code. Now again we have two ```.cpp``` codes whose output we want to compare which can be done via this tool.
 3. One can also use this tool during software testing and development.
 
 
@@ -28,4 +28,12 @@ Now move ```chk.py``` to the default location from where you can type ```python`
 
 In my case I have moved ```chk.py``` to  ```C:\Users\1kusp```
 
-You are done !! Now the structuring of file has been set and tool is ready to be used.
+You are done !! now the structuring of file has been set and tool is ready to be used.
+
+I will demonstrate it for a codechef problem:
+
+https://www.codechef.com/COOK140B/problems/DIGSMPAR
+
+Suppose your solution: https://www.codechef.com/viewsolution/61889412 (let's say you want to test your code aganist someone's code who has written it correct; you know your code is not correct and you just want to know for which test cases it fails since you have manually tried too much for debugging and now yopu want some automation)
+Suppose someone's solution: https://www.codechef.com/viewsolution/61887842 (you know this is optimal and 100% correct)
+
