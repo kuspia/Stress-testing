@@ -22,7 +22,10 @@ Somewhere put the testing folder with it all files inside it and copy the path o
 ```h1.h``` (can be found inside testing folder) for ```#define _2 and #define _1``` set path to your path. 
 ```chk.py``` (can be found inside root directory) here open it and make the change at ```line 4``` by replacing the path 
 
-Now move ```chk.py``` to the default location of your cmd path, you can open cmd terminal and see it as shown below
-![image](https://user-images.githubusercontent.com/63403330/161601893-6db3cc77-3c77-448e-8fad-4addfa92a74c.png) 
+Now move ```chk.py``` to the default location from where you can type ```python``` commands using a cmd, In my case it was same as to that of cmd default location you can open cmd terminal and see it and check it as shown:
 
+![image](https://user-images.githubusercontent.com/63403330/161602480-9f493b0a-1074-437d-b993-80260d56486e.png)
 
+In my case I have moved ```chk.py``` to  ```C:\Users\1kusp```
+
+You are done !! Now the structuring of file has been set and tool is ready to be used.
