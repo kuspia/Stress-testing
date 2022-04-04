@@ -35,7 +35,7 @@ I will demonstrate it for a codechef problem:
 https://www.codechef.com/COOK140B/problems/DIGSMPAR
 
 
-Suppose your solution: https://www.codechef.com/viewsolution/61889412 (let's say you want to test your code aganist someone's code who has written it correct; you know your code is not correct and you just want to know for which test cases it fails since you have manually tried too much for debugging and now yopu want some automation)
+Suppose your solution: https://www.codechef.com/viewsolution/61889412 (let's say you want to test your code aganist someone's code who has written it correct; you know your code is not correct and you just want to know for which test cases it fails since you have manually tried too much for debugging and now you want some automation)
 
 Suppose someone's solution: https://www.codechef.com/viewsolution/61887842 (you know this is optimal and 100% correct)
 
