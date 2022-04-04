@@ -11,4 +11,7 @@ https://text-compare.com/, using just one command.
 3. One can also use this tool during software testing and development.
 
 
-_Imagine if you don't have this tool then manually you need to run two ```.cpp``` codes everytime and then supply inputs on the terminal by typing it. So just think when you are done doing this all you need to observe both o/p files carefully to notice any differences. Clearlythis is really hectic and obviously there are chances that we may miss some differences and ultimately ending up getting tierd._
+_Imagine if you don't have this tool then manually you need to run two ```.cpp``` codes everytime and then supply inputs on the terminal by typing it. So just think when you are done doing this all you need to observe both o/p files carefully to notice any differences. Clearly this is really hectic and obviously there are chances that we may miss some differences and ultimately ending up getting tierd._
+
+
+## How to use it ?
