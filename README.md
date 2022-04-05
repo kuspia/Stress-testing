@@ -28,12 +28,11 @@ Now move ```chk.py``` to the default location from where you can type ```python`
 
 In my case I have moved ```chk.py``` to  ```C:\Users\1kusp```
 
-**You are done !! now the structuring of file has been set and tool is ready to be used.**
+### **You are done !! now the structuring of file has been set and tool is ready to be used.**
 
 I will demonstrate it for a codechef problem:
 
 https://www.codechef.com/COOK140B/problems/DIGSMPAR
-
 
 Suppose your solution: https://www.codechef.com/viewsolution/61889412 (let's say you want to test your code aganist someone's code who has written it correct; you know your code is not correct and you just want to know for which test cases it fails since you have manually tried too much for debugging and now you want some automation)
 
@@ -41,10 +40,17 @@ Suppose someone's solution: https://www.codechef.com/viewsolution/61887842 (you 
 
 Now we need to modify three files as shown for above problem inside the testing directory
 
-### brute_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_brute.cpp
-### optimal_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_optimal.cpp
-### test_case_generator.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_test_case_generator.cpp
+##### brute_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_brute.cpp
+##### optimal_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_optimal.cpp
+##### test_case_generator.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_test_case_generator.cpp
 
+### **You are done !! now you are one click away**
 
+> Run ```test_case_generator.cpp``` to generate o/p file named as ```in.txt``` or you may manually put test cases if you wish or you may copy the tcs given somewhere
+> 
+> Open cmd and type the magical commmand 
 
+# ```python chk.py```
+
+##### _Just wait and see you will see a automated chrome window will open that will open a website and will display the differences after few seconds._
 
