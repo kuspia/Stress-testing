@@ -47,10 +47,13 @@ Now we need to modify three files as shown for above problem inside the testing 
 ### **You are done !! now you are one click away**
 
 > Run ```test_case_generator.cpp``` to generate o/p file named as ```in.txt``` or you may manually put test cases if you wish or you may copy the tcs given somewhere
-> 
+
+![image](https://user-images.githubusercontent.com/63403330/161693065-171970ec-28c2-4819-85c7-a7fbc2b3ef8f.png)
+
 > Open cmd and type the magical commmand 
 
 # ```python chk.py```
+![image](https://user-images.githubusercontent.com/63403330/161692360-f257cf0a-c626-459f-b3a1-b20ae24cd1c7.png)
 
 ##### _Just wait and see you will see a automated chrome window will open that will open a website and will display the differences after few seconds._
 
