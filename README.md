@@ -39,3 +39,12 @@ Suppose your solution: https://www.codechef.com/viewsolution/61889412 (let's say
 
 Suppose someone's solution: https://www.codechef.com/viewsolution/61887842 (you know this is optimal and 100% correct)
 
+Now we need to modify three files as shown for above problem inside the testing directory
+
+### brute_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_brute.cpp
+### optimal_test.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_optimal.cpp
+### test_case_generator.cpp : https://github.com/kuspia/Stress-testing/blob/main/example_test_case_generator.cpp
+
+
+
+
