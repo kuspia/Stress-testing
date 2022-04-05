@@ -61,3 +61,4 @@ Now we need to modify three files as shown for above problem inside the testing 
 
 ##### _Just wait and see you will see a automated chrome window will open that will open a website and will display the differences after few seconds._
 
+**Note** - ###### Your left side window dispaly the optimal/correct o/p while right side shows brute/incorrect o/p on the website.
