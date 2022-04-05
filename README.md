@@ -18,16 +18,19 @@ _Imagine if you don't have this tool then manually you need to run two ```.cpp``
 
 It's very simple to use however little bit complicated to structure the files but if you follow line by line you won't miss it.
 
-Somewhere put the testing folder with it all files inside it and copy the path of testing folder and make three changes as shown 
-```h1.h``` (can be found inside testing folder) for ```#define _2 and #define _1``` set path to your path. 
-```chk.py``` (can be found inside root directory) here open it and make the change at ```line 4``` by replacing the path
-```chk.py``` make the change for this line ```options.add_argument("user-data-dir=C:\\Users\\1kusp\\AppData\\Local\\Google\\Chrome\\User Data\\Default")``` replace ```1kusp``` with your name
+Somewhere put the testing folder with it all files inside it and copy the path of testing folder and make three changes as shown:
+
+> ```h1.h``` (can be found inside testing folder) for ```#define _2 and #define _1``` set path to your path. 
+> 
+> ```chk.py``` (can be found inside root directory) here open it and make the change at ```line 4``` by replacing the path with your own path.
+> 
+> ```chk.py``` make the change for this line ```options.add_argument("user-data-dir=C:\\Users\\1kusp\\AppData\\Local\\Google\\Chrome\\User Data\\Default")``` replace ```1kusp``` with your name
 
 Now move ```chk.py``` to the default location from where you can type ```python``` commands using a cmd, In my case it was same as to that of cmd default location you can open cmd terminal and see it and check it as shown:
 
 ![image](https://user-images.githubusercontent.com/63403330/161602480-9f493b0a-1074-437d-b993-80260d56486e.png)
 
-In my case I have moved ```chk.py``` to  ```C:\Users\1kusp```
+So, I have moved ```chk.py``` to  ```C:\Users\1kusp```.
 
 ### **You are done !! now the structuring of file has been set and tool is ready to be used.**
 
