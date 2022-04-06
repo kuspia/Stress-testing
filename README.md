@@ -1,8 +1,7 @@
 # Powerful tool for stress testing of test cases in competitive programming and software development 
 
 This tool has been developed to do the stress testing of test cases and compare the differences of outputs produced by two ```.cpp``` files on the website
-https://text-compare.com/, using just one command.
-# ```python chk.py```
+https://text-compare.com/.
 
 ## Where we can use it ?
 
@@ -18,19 +17,13 @@ _Imagine if you don't have this tool then manually you need to run two ```.cpp``
 
 It's very simple to use however little bit complicated to structure the files but if you follow line by line you won't miss it.
 
-Somewhere put the testing folder with it all files inside it and copy the path of testing folder and make three changes as shown:
+Somewhere put the testing folder with it all files inside it and copy the path of testing folder and make three changes in the files present inside the testing folder as shown:
 
-> ```h1.h``` (can be found inside testing folder) for ```#define _2 and #define _1``` set path to your path. 
+> ```h1.h``` for ```#define _2 and #define _1``` set path to your path. 
 > 
-> ```chk.py``` (can be found inside root directory) here open it and make the change at ```line 4``` by replacing the path with your own path.
+> ```chk.py``` here open it and make the change at ```line 4``` by replacing the path with your own path.
 > 
-> ```chk.py``` make the change for this line ```options.add_argument("user-data-dir=C:\\Users\\1kusp\\AppData\\Local\\Google\\Chrome\\User Data\\Default")``` replace ```1kusp``` with your name
-
-Now move ```chk.py``` to the default location from where you can type ```python``` commands using a cmd, In my case it was same as to that of cmd default location you can open cmd terminal and see it and check it as shown:
-
-![image](https://user-images.githubusercontent.com/63403330/161602480-9f493b0a-1074-437d-b993-80260d56486e.png)
-
-So, I have moved ```chk.py``` to  ```C:\Users\1kusp```.
+> ```chk.py``` for this line ```options.add_argument("user-data-dir=C:\\Users\\1kusp\\AppData\\Local\\Google\\Chrome\\User Data\\Default")``` replace ```1kusp``` with your name
 
 ### **You are done !! now the structuring of file has been set and tool is ready to be used.**
 
@@ -52,12 +45,7 @@ Now we need to modify three files as shown for above problem inside the testing 
 
 > Run ```test_case_generator.cpp``` to generate o/p file named as ```in.txt``` or you may manually put test cases if you wish or you may copy the tcs given somewhere
 
-
-
-> Open cmd and type the magical commmand 
-
-# ```python chk.py```
-![image](https://user-images.githubusercontent.com/63403330/161692360-f257cf0a-c626-459f-b3a1-b20ae24cd1c7.png)
+# ```Execute tester.bat script```
 
 ##### _Just wait and see you will see a automated chrome window will open that will open a website and will display the differences after few seconds._
 
