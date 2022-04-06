@@ -43,9 +43,9 @@ Now we need to modify three files as shown for above problem inside the testing 
 
 ### **You are done !! now you are one click away**
 
-> Run ```test_case_generator.cpp``` to generate o/p file named as ```in.txt``` or you may manually put test cases if you wish or you may copy the tcs given somewhere
+> Run ```test_case_generator.cpp``` to generate o/p file named as ```in.txt``` or you may manually put test cases if you wish.
 
-# ```Execute tester.bat script```
+## ```Execute tester.bat script```
 
 ##### _Just wait and see you will see a automated chrome window will open that will open a website and will display the differences after few seconds._
 
