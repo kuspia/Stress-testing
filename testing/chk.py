@@ -31,6 +31,6 @@ with open(file_path1, 'r') as myfile1:
 file_path2 = path + r"\optimal_test_out.txt"
 with open(file_path2, 'r') as myfile2:
     content2 = myfile2.read()
-f1.send_keys(content2)
-f2.send_keys(content1)
+browser.execute_script('arguments[0].value=arguments[1]', f1 , content2)
+browser.execute_script('arguments[0].value=arguments[1]', f2 , content1)
 clik.click()
